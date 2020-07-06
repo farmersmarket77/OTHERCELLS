@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4aa8052a1730940b16a98d9a270add, type: 3}
+  m_Name: Clothes List Data
+  m_EditorClassIdentifier: 
+  clothes_listDB:
+  - {fileID: 21300000, guid: f743ae65363a58b4bb63d471b4978b1a, type: 3}
+  - {fileID: 21300000, guid: 0ef1d9735665d7849afdc68d3ce045b2, type: 3}
+  - {fileID: 21300000, guid: a35b151eea1c2de43a63764c264c1d01, type: 3}
+  - {fileID: 21300000, guid: 0ba6eacafb5789b4b93c7a75aaeca5e2, type: 3}
+  - {fileID: 21300000, guid: eef18d33c7eb7c64cb92f40f54a334b0, type: 3}
+  - {fileID: 21300000, guid: b2353d2543ffecb46ac5f9ff4c022bd5, type: 3}
+  - {fileID: 21300000, guid: 24b236bbf3369e246a7fb8bd60758587, type: 3}
+  clothes_accese: 01010100000000
